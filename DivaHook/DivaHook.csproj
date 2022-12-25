@@ -42,7 +42,7 @@
       <HintPath>..\packages\DS4WindowsApi.dll</HintPath>
     </Reference>
     <Reference Include="EasyHook">
-      <HintPath>..\TotallyLegitArcadeController\EasyHook.dll</HintPath>
+      <HintPath>..\packages\EasyHook.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
